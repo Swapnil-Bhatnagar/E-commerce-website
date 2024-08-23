@@ -78,3 +78,6 @@ Admin Login
    - Open http://localhost:3000
    - Click Sign In button
    - Enter admin email "admin@example.com" and password "123456" and click Sign In
+
+
+Deployment Link-https://sethcram.pythonanywhere.com/BestBuySearch/login/
