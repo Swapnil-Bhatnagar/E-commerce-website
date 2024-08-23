@@ -1,3 +1,6 @@
+
+
+#  SDE-I  (WORKWISE ASSESSMENT)
 # Build Full-ECommerce Website By Next.js, PostgreSQL  and Tailwind css
 
 |                |                                                          |
@@ -72,12 +75,6 @@ Seed Data
    ```shell
      npx tsx ./db/seed
    ```
-
-Admin Login
-
-   - Open http://localhost:3000
-   - Click Sign In button
-   - Enter admin email "admin@example.com" and password "123456" and click Sign In
 
 
 Deployment Link-https://sethcram.pythonanywhere.com/BestBuySearch/login/
