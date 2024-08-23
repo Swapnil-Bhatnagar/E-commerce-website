@@ -38,7 +38,7 @@ Sellers are restricted to managing only their own products.
 Buyer Functionality
 Buyers can:
 Search for products by name or category.
-Add products to their cart and remove them as needed.
+Add products to their cart and remove them    as needed.
 Input Validation and Sanitization
 All user inputs are validated and sanitized before being stored in the database to ensure security and data integrity.
 Error Handling
