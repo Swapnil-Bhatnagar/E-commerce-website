@@ -81,3 +81,10 @@ Admin Login
 
 
 Deployment Link-https://sethcram.pythonanywhere.com/BestBuySearch/login/
+
+
+Outlook of the website
+![image](https://github.com/user-attachments/assets/42601128-b949-43eb-8d8a-53401ea3304e)
+
+
+
